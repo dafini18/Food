@@ -1,0 +1,53 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+html { 
+  background: url(images/food.webp) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+button{
+  background-color: #cd0497;
+  height:50px;
+  color:white;
+}
+
+
+
+h1 {
+  margin: 30px;
+  position:relative;
+  top:20px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #de98dc;
+}
+
+p {
+  font-size: 4rem;
+  color: #ff9de5;
+  font-family: 'Londrina Sketch',Fantasy ;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
